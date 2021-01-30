@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #262D33;
 }
 .more {
-    padding: 10px;
+    padding: 0 10px;
     font-weight: 900;
     font-size: 14px;
     line-height: 20px;
